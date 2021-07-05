@@ -1,0 +1,33 @@
+Value of b:
+10
+Value of c:
+9
+Value of b:
+2
+Value of d:
+2
+Value of e:
+0
+Nested IF:
+2
+loop until starts here:
+9
+9
+9
+9
+9
+9
+9
+9
+9
+9
+loop until ends here
+loop till starts here:
+11
+11
+loop till ends here
+Outcome of switch:
+15
+ERROR at line 70: Variable type is already declared!!!
+ERROR at line 71: Variable type is already declared!!!
+ERROR: syntax error at line 73
